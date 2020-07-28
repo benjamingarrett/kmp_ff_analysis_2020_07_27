@@ -1,0 +1,10 @@
+Begin at: 2020-07-28 01:01:10.454207
+['../dist/Debug/GNU-Linux/memo_batch_tester', '', '--kmp_algorithm_version', 'failure_function_single', '--lig_instance_type', '001122_112200', '--lig_n', '98', '--mbt_cache_misses_fname', '../../table_maker100/kmp_ff_analysis_2020_07_27/no_preemptive_halt_001122_112200/kmp_n_98_min_2_max_196_run_ff_001122_112200_misses_for_size_2020_7_28_1_1_10_pid_5293.csv', '--mbt_execution_trace_fname', '../../table_maker100/kmp_ff_analysis_2020_07_27/no_preemptive_halt_001122_112200/kmp_n_98_min_2_max_196_run_ff_001122_112200_execution_trace_2020_7_28_1_1_10_pid_5293.log', '--mbt_exact_cutoff_min_cache_size', '2', '--mbt_exact_cutoff_max_cache_size', '196', '--memo_cache_size', '197', '--memo_lru_queue_size', '196', '--memo_caching_strategy', 'lru', '--memo_key_length', '8', '--memo_value_length', '8', '--memo_event_log_fname', 'event_log', '--mbt_problem_type', 'kmp', '--mbt_output_fname', 'output_csize', '--mbt_append_results', '1', '--mbt_metric_type', 'no_preemptive_halt', '--mbt_cutoff_ratio', '2.2', '--kmp_use_pseudocache', '0', '--kmp_log_function_calls', '1', '--kmp_permutation_number', '0', '--lig_max_n', '1', '--lig_num_random_iterations', '1']no_preemptive_halt chosen
+kmp kmp 196
+initializing problem
+done initializing problem
+commence trials
+starting non-preemptive linear search with cache size 196
+non-preemptive linear search for  = -1
+End at: 2020-07-28 01:01:10.768560
+Time elapsed: 0:00:00.314374

@@ -1,0 +1,1 @@
+python3 kmp_ff_conjecture_2020_07_27.py all
